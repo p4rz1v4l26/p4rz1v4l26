@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Avinash 
 #### Avinash aka P4RZ1V4L
-![Avinash aka P4RZ1V4L](https://github.com/p4rz1v4l26/p4rz1v4l26/blob/master/rsz_1_1.jpg)
-<img align="right" alt="Coding" width="400" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
+![Avinash aka P4RZ1V4L](https://github.com/p4rz1v4l26/p4rz1v4l26/blob/master/banner.jpg)
+<img align="right" alt="Coding" width="400" src="https://github.com/p4rz1v4l26/p4rz1v4l26/blob/master/ani.gif">
 
 
  I'm passionate about gaming, crafting eye-catching wallpapers, and dabbling in a bit of coding on the side.<br>
