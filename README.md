@@ -32,4 +32,4 @@
 <h3 align="left">Examples of Work:</h3>
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3135113027" target="_blank" rel="noreferrer"> <img src="https://github.com/p4rz1v4l26/p4rz1v4l26/blob/master/omen.gif" width="256" />
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3080538007" target="_blank" rel="noreferrer"> <img src="https://github.com/p4rz1v4l26/p4rz1v4l26/blob/master/loki.gif" width="256" />
-<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3080609951" target="_blank" rel="noreferrer"> <img src="https://github.com/p4rz1v4l26/p4rz1v4l26/blob/master/sukuna.gif" width="256" />
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3080609951" target="_blank" rel="noreferrer"> <img src="https://github.com/p4rz1v4l26/p4rz1v4l26/blob/master/zenitsu.gif" width="256" />
