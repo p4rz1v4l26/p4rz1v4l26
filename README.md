@@ -1,18 +1,21 @@
 ### Hi there 👋, I'm Avinash 
 #### Avinash aka P4RZ1V4L
 ![Avinash aka P4RZ1V4L](https://github.com/p4rz1v4l26/p4rz1v4l26/blob/master/rsz_1_1.jpg)
-
- I'm passionate about gaming, crafting eye-catching wallpapers, and dabbling in a bit of coding on the side. Whether I'm strategizing my way through virtual worlds, designing eye-catching digital art, or tinkering with code, I'm always exploring new frontiers in the digital realm. Join me on this exciting journey, and let's bring our ideas to life together! 
-
+<img align="right" alt="Coding" width="400" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
 
 
+ I'm passionate about gaming, crafting eye-catching wallpapers, and dabbling in a bit of coding on the side.<br>
+ Whether I'm strategizing my way through virtual worlds, designing eye-catching digital art, or tinkering with code, I'm always exploring new frontiers in the digital realm. Join me on this exciting journey, and let's bring our ideas to life together! 
+
+
+
+<h3 align="left">Connect with me:</h3>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/p4rz1v4l26)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://in.linkedin.com/in/avinash-warale-098654233?trk=public_post_follow-view-profile/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/26__avinash//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/P4RZ1V4L2610?t=zYqCsPQgdLuw2x89auRiLA&s=09)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/CENUQ8Zqaa)  
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p4rz1v4l26&label=Profile%20views&color=0e75b6&style=flat" alt="p4rz1v4l26" /> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
