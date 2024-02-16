@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Avinash)](https://git.io/typing-svg)
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=p4rz1v4l26&label=Profile%20views&color=0e75b6&style=flat" alt="p4rz1v4l26" /> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bahnschrift+SemiBold&weight=800&pause=1000&color=F7951A&center=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Avinash)](https://git.io/typing-svg)<p align="center"> <img src="https://komarev.com/ghpvc/?username=p4rz1v4l26&label=Profile%20views&color=0e75b6&style=flat" alt="p4rz1v4l26" /> </p>
 
 ![Avinash aka P4RZ1V4L](https://github.com/p4rz1v4l26/p4rz1v4l26/blob/master/banner.jpg)
 <img align="right" alt="Coding" width="400" src="https://github.com/p4rz1v4l26/p4rz1v4l26/blob/master/ani.gif">
