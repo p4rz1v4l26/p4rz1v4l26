@@ -25,8 +25,9 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=p4rz1v4l26&show_icons=true&locale=en" alt="p4rz1v4l26" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p4rz1v4l26&layout=donut)](https://github.com/p4rz1v4l26/github-readme-stats)
+<img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=p4rz1v4l26&layout=donut&theme=dark'>
+<img align='center' src='https://streak-stats.demolab.com/?user=p4rz1v4l26&theme=dark'>
+<br>
 <hr>
 <h3 align="left">Examples of Work:</h3>
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3135113027" target="_blank" rel="noreferrer"> <img src="https://github.com/p4rz1v4l26/p4rz1v4l26/blob/master/omen.gif" width="256" />
