@@ -1,5 +1,6 @@
-### Hi there 👋, I'm Avinash 
-#### Avinash aka P4RZ1V4L
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Avinash)](https://git.io/typing-svg)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=p4rz1v4l26&label=Profile%20views&color=0e75b6&style=flat" alt="p4rz1v4l26" /> </p>
+
 ![Avinash aka P4RZ1V4L](https://github.com/p4rz1v4l26/p4rz1v4l26/blob/master/banner.jpg)
 <img align="right" alt="Coding" width="400" src="https://github.com/p4rz1v4l26/p4rz1v4l26/blob/master/ani.gif">
 
@@ -14,7 +15,6 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/p4rz1v4l26)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://in.linkedin.com/in/avinash-warale-098654233?trk=public_post_follow-view-profile/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/26__avinash//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://x.com/P4RZ1V4L2610?t=zYqCsPQgdLuw2x89auRiLA&s=09)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/CENUQ8Zqaa)  
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=p4rz1v4l26&label=Profile%20views&color=0e75b6&style=flat" alt="p4rz1v4l26" /> </p>
 
 <p align="left">
 </p>
