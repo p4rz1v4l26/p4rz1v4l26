@@ -33,6 +33,8 @@
 <p align='Center'>
 <img align='center' src='https://streak-stats.demolab.com/?user=p4rz1v4l26&theme=dark'>
 </p>
+<p align="center">
+    <img src ="https://github-readme-stats.vercel.app/api?username=p4rz1v4l26&hide=issues&show_icons=true&theme=dark"></p>
  <br>
 <hr>
 <h3 align="left">Examples of Work:</h3>
