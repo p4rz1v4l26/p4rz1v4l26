@@ -48,8 +48,10 @@
 </p>
 <p align="center">
     <img src ="https://github-readme-stats.vercel.app/api?username=p4rz1v4l26&hide=issues&show_icons=true&theme=dark"></p>
- <p align= "center">
-     <img src="https://github-profile-trophy.vercel.app/?username=p4rz1v4l26&theme=alduin"></p>
+<p align= "Center">
+    <img align="Center" src="https://github-profile-trophy.vercel.app/?username=p4rz1v4l26&theme=alduin&title=Stars,Commits,PullRequest,Repositories,Issues,Experience">
+</p>
+
  <br>
 <hr>
 <h3 align="left">Examples of Work:</h3>
