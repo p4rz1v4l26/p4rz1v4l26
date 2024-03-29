@@ -39,15 +39,15 @@
  
 </p>
 <hr>
-<p align='Center'>
+<p align='left'>
 <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=p4rz1v4l26&layout=donut&theme=dark'>
 </p>
-<p align='Center'>
+<p align='left'>
 <img align='center' src='https://streak-stats.demolab.com/?user=p4rz1v4l26&theme=dark'>
 </p>
-<p align="center">
+<p align="left">
     <img src ="https://github-readme-stats.vercel.app/api?username=p4rz1v4l26&hide=issues&show_icons=true&theme=dark"></p>
-<p align= "Center">
+<p align= "left">
     <img align="Center" src="https://github-profile-trophy.vercel.app/?username=p4rz1v4l26&theme=alduin&title=Stars,Commits,PullRequest,Repositories,Issues,Experience">
 </p>
 
