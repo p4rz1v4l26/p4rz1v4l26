@@ -43,7 +43,7 @@
 <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=p4rz1v4l26&layout=donut&theme=dark'>
 </p>
 <p align='left'>
-<img align='center' src='https://streak-stats.demolab.com/?user=p4rz1v4l26&theme=dark'>
+<img align='center' src='https://streak-stats.demolab.com?user=p4rz1v4l26&theme=dark&card_width=525'>
 </p>
 <p align="left">
     <img src ="https://github-readme-stats.vercel.app/api?username=p4rz1v4l26&hide=issues&show_icons=true&theme=dark"></p>
