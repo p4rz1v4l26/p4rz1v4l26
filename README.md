@@ -34,6 +34,12 @@
  
 </p>
 <hr>
+<p>
+<h3> Currently Working on Python Finance and Web Dev. Projects</h3>
+
+</p>
+
+<hr>
 <p align='left'>
 <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=p4rz1v4l26&layout=donut&theme=dark'>
 </p>
