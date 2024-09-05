@@ -71,19 +71,47 @@
 </details>
 
 <hr>
-<p align='left'>
-<img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=p4rz1v4l26&layout=donut&theme=dark'>
-</p>
-<p align='left'>
-<img align='center' src='https://streak-stats.demolab.com?user=p4rz1v4l26&theme=dark&card_width=525'>
-</p>
-<p align="left">
-    <img src ="https://github-readme-stats.vercel.app/api?username=p4rz1v4l26&hide=issues&show_icons=true&theme=dark"></p>
-<p align= "left">
-    <img align="Center" src="https://github-profile-trophy.vercel.app/?username=p4rz1v4l26&theme=alduin&title=Stars,Commits,PullRequest,Repositories,Issues,Experience">
-</p>
+<details
+  style="
+    border: 1px solid #444;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #2b2b2b;
+    flex: 1;
+    margin-top: 20px;
+  "
+>
+  <summary style="font-size: 1.5rem; cursor: pointer; color: #ffffff">
+    <h2><samp>Other Stats</samp></h2>
+  </summary>
+  <div style="margin-top: 10px">
+    <p align="left">
+      <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=p4rz1v4l26&layout=donut&theme=dark"
+      />
+    </p>
+    <p align="left">
+      <img
+        align="center"
+        src="https://streak-stats.demolab.com?user=p4rz1v4l26&theme=dark&card_width=525"
+      />
+    </p>
+    <p align="left">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=p4rz1v4l26&hide=issues&show_icons=true&theme=dark"
+      />
+    </p>
+    <p align="left">
+      <img
+        align="center"
+        src="https://github-profile-trophy.vercel.app/?username=p4rz1v4l26&theme=alduin&title=Stars,Commits,PullRequest,Repositories,Issues,Experience"
+      />
+    </p>
+  </div>
+</details>
 
- <br>
+
 <hr>
 <h3 align="left">Examples of Work:</h3>
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3135113027" target="_blank" rel="noreferrer"> <img src="https://github.com/p4rz1v4l26/p4rz1v4l26/blob/master/assets/omen.gif" width="256" />
