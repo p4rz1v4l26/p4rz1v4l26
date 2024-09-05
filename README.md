@@ -40,6 +40,37 @@
 </p>
 
 <hr>
+<details
+  style="
+    border: 1px solid #444;
+    border-radius: 5px;
+    padding: 2px;
+    background-color: #2b2b2b;
+    flex: 1;
+  "
+>
+  <summary style="font-size: 1.5rem; cursor: pointer; color: #ffffff">
+    <h2><samp>Status</samp></h2>
+  </summary>
+  <div style="margin-top: 2px">
+    <table style="width: 100%; margin-bottom: 20px; border: 1px solid #555">
+      <tr>
+        <td style="text-align: left; padding: 2px">
+          <h1 style="font-size: 1.5rem; color: #ffffff">
+            <samp>Discord</samp>
+          </h1>
+          <a href="">
+            <img
+              src="https://discord-readme-badge.vercel.app/api?id=896411007797325824"
+            />
+          </a>
+        </td>
+      </tr>
+    </table>
+  </div>
+</details>
+
+<hr>
 <p align='left'>
 <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=p4rz1v4l26&layout=donut&theme=dark'>
 </p>
